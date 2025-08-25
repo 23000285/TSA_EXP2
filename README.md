@@ -1,10 +1,3 @@
-Got it 👍
-You want this in a **lab record format** (with AIM, Algorithm, Program, Output, Result), and also want to know where to insert each part of your code and description.
-
-Here’s how you should structure it properly:
-
----
-
 # Ex.No: 02
 
 ## LINEAR AND POLYNOMIAL TREND ESTIMATION
@@ -124,11 +117,3 @@ Displayed in the graph as the red solid line (historical) and red dashed line (p
 
 Thus, the Python program for Linear and Polynomial Trend Estimation has been executed successfully.
 
----
-
-👉 Now, you just need to:
-
-* Paste this whole structure in your lab record/notebook.
-* Run the program and attach the **graph screenshots** under OUTPUT section.
-
-Do you want me to also prepare a **sample output table** (predicted values for 2017–2025) so that you can directly paste it under OUTPUT?
