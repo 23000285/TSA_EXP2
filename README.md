@@ -2,7 +2,7 @@
 
 ## LINEAR AND POLYNOMIAL TREND ESTIMATION
 
-## Developed By :** VENKATANATHAN P R
+## Developed By : VENKATANATHAN P R
 
 ## Register Number:212223240173
 
